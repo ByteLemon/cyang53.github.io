@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 杨晨
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chen Yang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chen
+last_name: Yang
 
 # Status emoji
 status:
