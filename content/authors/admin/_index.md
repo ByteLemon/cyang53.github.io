@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 晨
+title: 杨晨
 
 # # Name pronunciation (optional)
 # name_pronunciation: Chen Yang
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'a2733743979@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -48,14 +48,14 @@ profiles:
 
 interests:
   - Medical Image Analysis
-  - Computational Linguistics
-  - Information Retrieval
+  - Federated Learning
+  - Domain Adaptation
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Electronic Engineering
+    institution: City University of Hong Kong
+    date_start: 2019-09-01
+    date_end: 2024-01-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
