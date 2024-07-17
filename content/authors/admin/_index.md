@@ -2,8 +2,8 @@
 # Display name
 title: 杨晨
 
-# Name pronunciation (optional)
-name_pronunciation: Chen Yang
+# # Name pronunciation (optional)
+# name_pronunciation: Chen Yang
 
 # Full name (for SEO)
 first_name: Chen
