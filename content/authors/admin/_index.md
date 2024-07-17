@@ -47,7 +47,7 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
+  - Medical Image Analysis
   - Computational Linguistics
   - Information Retrieval
 
