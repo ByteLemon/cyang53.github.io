@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 杨晨
+title: 晨
 
 # # Name pronunciation (optional)
 # name_pronunciation: Chen Yang
